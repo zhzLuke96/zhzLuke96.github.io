@@ -1,10 +1,7 @@
 # gh-blog
+who's🤡?!
 
-一些东西。
-
-# about
-
-Powered by vuepress
+> Powered by vuepress
 
 # LICENSE
 
